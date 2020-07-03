@@ -1,7 +1,7 @@
 <?php
 /**
  * Formação Full Stack PHP Developer UpInside
- * @author Caio Landgraf <https://www.upinside.com.br>
+ * @author Caio Landgraf <https://www.suporteinformatika.com.br>
  *
  * Document content and charset
  */

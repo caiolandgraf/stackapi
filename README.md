@@ -165,8 +165,8 @@ Thank you
 ## Credits
 
 - [Caio Landgraf](https://github.com/caiolandgraf) (Developer)
-- [UpInside Treinamentos](https://github.com/caiolandgraf) (Team)
-- [All Contributors](https://github.com/caiolandgraf/uploader/contributors) (This Rock)
+- [Suporte Informatika](https://github.com/caiolandgraf) (Team)
+- [All Contributors](https://github.com/caiolandgraf/stackapi/contributors) (This Rock)
 
 ## License
 
