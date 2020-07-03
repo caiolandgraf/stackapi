@@ -1,0 +1,31 @@
+{
+  "name": "caiolandgraf/stackapi",
+  "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
+  "keywords": [
+    "FSPHP",
+    "UpInside",
+    "Caio Landgraf",
+    "SaaS",
+    "PHP",
+    "Full Stack"
+  ],
+  "homepage": "http://www.upinside.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Caio Landgraf",
+      "email": "eu.caiolandgraf@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "CaioLandgraf\\StackApi\\": "src"
+    }
+  }
+}
